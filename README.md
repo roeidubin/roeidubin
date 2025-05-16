@@ -7,4 +7,4 @@
 
 📄 [View My Resume (PDF)](Roei_Dubin_CV.pdf)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/...) | [GitHub Projects](https://github.com/roeidubin)
+🔗 [LinkedIn](https://www.linkedin.com/in/roeidubin)
