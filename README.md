@@ -5,6 +5,5 @@
 💡 Passionate about automation, infrastructure, and problem-solving  
 🚀 Currently building hands-on projects to break into the DevOps world
 
-📄 [View My Resume (PDF)](Roei_Dubin_CV.pdf)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/roeidubin)
+📄 [View My Resume (PDF)](Roei_Dubin_CV.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/roei-dubin-545145234) | [GitHub Projects](https://github.com/roeidubin)
